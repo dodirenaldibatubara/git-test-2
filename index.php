@@ -13,6 +13,11 @@
 <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam odio, quibusdam minima obcaecati corrupti neque libero rerum omnis. Cum sunt libero dolorum placeat unde eum quam minus deleniti maiores recusandae.
 </p>
+
+<ul>
+    <li>satu</li>
+    <li>dua</li>
+</ul>
     
 </body>
 </html>
